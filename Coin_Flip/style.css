@@ -1,0 +1,22 @@
+body {
+  background-color: teal;
+}
+
+#flipcoin {
+  height: 400px;
+  width: 500px;
+}
+
+#click {
+  font-weight: bold; 
+  font-size: 30px;
+}
+
+#btn {
+   height: 50px; 
+   width: 600px; 
+   background-color:sienna; 
+   color:yellow;
+   font-weight: bold; 
+   font-size: 30px;
+}
